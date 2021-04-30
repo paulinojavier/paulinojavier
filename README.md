@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi [JP][website] there 👋
 
 
-**paulinojavier/paulinojavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - :) I'm student ...
+
+<!-- Link -->
+[website]:https://www.javierpaulino.com
